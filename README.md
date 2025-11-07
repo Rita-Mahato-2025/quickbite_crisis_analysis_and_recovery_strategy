@@ -5,6 +5,8 @@
 ### 💼 Function: Crisis Recovery & Business Strategy  
 ### 🛠 Tools: Excel, Power BI, SQL (MySQL), Python, GitHub
 
+**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiZmYzY2NmNWItMmM1NC00M2ZiLTk2ZWUtNGJlM2M1NjEyOTYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ---
 
 ## 📌 Table of Contents
