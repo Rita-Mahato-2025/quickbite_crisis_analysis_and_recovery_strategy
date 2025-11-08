@@ -3,7 +3,7 @@
 
 ### 🧩 Domain: Food Delivery & Consumer Analytics
 ### 💼 Function: Crisis Recovery & Business Strategy  
-### 🛠 Tools: Excel, Power BI, SQL (MySQL), Python, GitHub
+### 🛠 Tools: SQL, Python, Power BI, GitHub
 
 **Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiZmYzY2NmNWItMmM1NC00M2ZiLTk2ZWUtNGJlM2M1NjEyOTYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -18,20 +18,18 @@
 - <a href="#parimary-analysis">Primary Analysis</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#key-learnings">Key Learnings</a>
-- <a href="#folder-structure">Folder Structure</a>
-- <a href="#future-improvement">Future Improvement</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
 
 <h2><a class="anchor" id="Project Overview"></a>Overview</h2>
-QuickBite Express is a Bengaluru-based food-tech startup (founded in 2020) that connects customers with nearby restaurants and cloud kitchens.
+This project analyzes QuickBite’s operational crisis using SQL, Python and Power BI dashboards to detect performance bottlenecks, customer churn trends, and revenue impact. It concludes with a data-backed recovery strategy to restore business performance and optimize decision-making.
 
 
 ---
 
 <h2><a class="anchor" id="Business Problem"></a>Business Problem</h2>
-In June 2025, QuickBite faced a major crisis. A viral social media incident involving food safety violations at partner restaurants, combined with a week-long delivery outage during the monsoon season, triggered massive customer backlash. Competitors capitalized with aggressive campaigns, worsening the situation.
+QuickBite Express is a Bengaluru-based food-tech startup (founded in 2020) that connects customers with nearby restaurants and cloud kitchens.In June 2025, QuickBite faced a major crisis. A viral social media incident involving food safety violations at partner restaurants, combined with a week-long delivery outage during the monsoon season, triggered massive customer backlash. Competitors capitalized with aggressive campaigns, worsening the situation.
 This project, part of the **Codebasics Resume Project Challenge**, focuses on building an **interactive dashboard** that answers key stakeholder questions across:  
 - Finance  
 - Sales  
@@ -50,7 +48,6 @@ They cover customers, delivery_partner, menu_item, restaurant, delivery_performa
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-- Excel
 - Power BI
 - SQL
 - Python   
