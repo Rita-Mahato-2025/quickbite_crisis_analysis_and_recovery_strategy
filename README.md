@@ -256,11 +256,11 @@ raised returns & complaints.
 ---
 
 ## Report 
-- [Final Report_v01](report/QuickBite-Crisis-Analysis-and-Recovery-Strategy_1.pdf)
-- [Final Report_cont_v02](report/QuickBite2.pdf)
-- [Final Report_cont_v03](report/Quickbite3.pdf)
-- [Final Report_cont_v04](report/Quickbite4.pdf)
-- [Final Report_cont_v05](report/Quickbite5.pdf)
+- [Project_Overview](report/QuickBite-Crisis-Analysis-and-Recovery-Strategy_1.pdf)
+- [Presenter](report/QuickBite2.pdf)
+- [Primary_Analysis_1](report/Quickbite3.pdf)
+- [Primary_Analysis_cont_2](report/Quickbite4.pdf)
+- [Secondary_Analysis_Conclusion](report/Quickbite5.pdf)
 
 ---
 
